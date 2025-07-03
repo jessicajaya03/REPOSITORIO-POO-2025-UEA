@@ -14,6 +14,7 @@ class estudiante:
         self.nota1=nota1
         self.nota2 = nota2
         self.nota3 = nota3
+
     #identificador para calcular el promedio
     def Calcular_promedio(self):
         promedio=(self.nota1+self.nota2+self.nota3)/3
