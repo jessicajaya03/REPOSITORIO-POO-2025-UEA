@@ -1,0 +1,3 @@
+489,cocina,1
+789,refrigeradora,2
+785,refrigeradora,2
