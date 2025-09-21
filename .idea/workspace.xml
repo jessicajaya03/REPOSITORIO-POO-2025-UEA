@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fd44f534-440a-4dc8-b572-17614d0a9a1f" name="Changes" comment="proyecto">
+      <change afterPath="$PROJECT_DIR$/SEMANA 14/AGENDA PERSONAL.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SEMANA 13/INTERFAZ GRAFICA DE DATOS.py" beforeDir="false" afterPath="$PROJECT_DIR$/SEMANA 13/INTERFAZ GRAFICA DE DATOS.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +48,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.5.executor": "Run",
+    "Python.AGENDA PERSONAL.executor": "Run",
     "Python.CENTRO COMERCIAL.executor": "Run",
     "Python.CONCEPTOS_POO.executor": "Run",
     "Python.CONSTRUCTORES_DESTRUCTORES.executor": "Run",
@@ -54,6 +57,7 @@
     "Python.ENCAPSULACION.executor": "Run",
     "Python.FORMA TRADICIONAL.executor": "Run",
     "Python.HERENCIA.executor": "Run",
+    "Python.INTERFAZ GRAFICA DE DATOS.executor": "Run",
     "Python.POLIMORFISMO.executor": "Run",
     "Python.PROGRAMACION ORIENTADA A OBJETOS.executor": "Run",
     "Python.RESTAURANTE.executor": "Run",
@@ -69,7 +73,8 @@
     "Python.promedios.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -196,7 +201,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757038084061</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="proyecto">
+      <option name="closed" value="true" />
+      <created>1757697747684</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1757697747684</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
